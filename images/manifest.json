@@ -1,0 +1,11 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://maple119.github.io/iiif-project/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in Maple119/iiif-project project"
+        ]
+    },
+    "items": []
+}
