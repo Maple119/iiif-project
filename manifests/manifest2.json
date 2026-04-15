@@ -5,11 +5,11 @@
   "label" : "Manifest for buildings in Bodie",
   "metadata" : [ ],
   "description" : [ {
-    "@value" : "[Click to edit description]",
+    "@value" : "Photos of various buildings and structures located in Bodie, an abandoned mining town located in California.",
     "@language" : "en"
   } ],
   "license" : "https://creativecommons.org/licenses/by/3.0/",
-  "attribution" : "[Click to edit attribution]",
+  "attribution" : "Copyright Sheryl Frisch, but released as Creative Commons.",
   "sequences" : [ {
     "@id" : "http://a5f92ff2-5bbf-474d-a22e-8864bb2eb6bd",
     "@type" : "sc:Sequence",
