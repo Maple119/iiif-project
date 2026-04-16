@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://Maple119.github.io/iiif-project/manifests/manifest2.json",
     "label" : "Manifest for buildings in Bodie"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Maple119.github.io/iiif-project/manifests/manifest3.json",
+    "label" : "Manifest for buildings in Bodie"
   } ]
 }
