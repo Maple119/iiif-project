@@ -3,6 +3,11 @@
   "@id" : "https://Maple119.github.io/iiif-project/manifests/manifest2.json",
   "@type" : "sc:Manifest",
   "label" : "Manifest for buildings in Bodie",
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/88676069/f7ec315b2867d08c8c2665dbbeb31548/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  },
   "metadata" : [ ],
   "description" : [ {
     "@value" : "Photos of various buildings and structures located in Bodie, an abandoned mining town located in California.",
@@ -47,6 +52,11 @@
         },
         "on" : "http://521d8843-967a-4607-9723-8c46bdca37ed"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://maple119.github.io/iiif-project/annotations/10e6aa04d093e271c6c4598c6668bb39.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://2396c00e-16b3-470d-9bfd-97d288215c03",
@@ -77,6 +87,11 @@
           "width" : 4032
         },
         "on" : "http://2396c00e-16b3-470d-9bfd-97d288215c03"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://maple119.github.io/iiif-project/annotations/dd9c6359011cefb553abd9c79170955f.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
       } ],
       "related" : ""
     } ]
