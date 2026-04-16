@@ -1,0 +1,72 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "wood slat facade",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>wood slat facade</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/88676069",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2026-04-15T23:57:31",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1776297451264",
+    "dcterms:modified" : "2026-04-15T23:57:31",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Maple119.github.io/iiif-project/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2022,211,1479,713"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2021.61329,210.66465h739.48943v0h739.48943v356.28701v356.28701h-739.48943h-739.48943v-356.28701z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_a7be28b2-af88-41a5-8ff4-00b86ef359de\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://2396c00e-16b3-470d-9bfd-97d288215c03"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "brick arches with columns and pilasters",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>brick arches with columns and pilasters</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/88676069",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2026-04-15T23:54:53",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1776297293966",
+    "dcterms:modified" : "2026-04-15T23:55:09",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Maple119.github.io/iiif-project/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=194,1403,1773,982"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M194.42296,1403.4139h886.67976v0h886.67976v490.78852v490.78852h-886.67976h-886.67976v-490.78852z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_f36cad32-36e7-41bf-8ddd-616b261c921e\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"30.45317\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://2396c00e-16b3-470d-9bfd-97d288215c03"
+    } ]
+  } ],
+  "@id" : "https://Maple119.github.io/iiif-project/annotations/10e6aa04d093e271c6c4598c6668bb39.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
