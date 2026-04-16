@@ -1,0 +1,130 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://Maple119.github.io/iiif-project/manifests/manifest3.json",
+  "@type" : "sc:Manifest",
+  "label" : "Manifest for buildings in Bodie",
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/88676069/f7ec315b2867d08c8c2665dbbeb31548/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  },
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Photos of various buildings and structures located in Bodie, an abandoned mining town located in California.",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Copyright Sheryl Frisch, but released as Creative Commons.",
+  "sequences" : [ {
+    "@id" : "http://a5f92ff2-5bbf-474d-a22e-8864bb2eb6bd",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://521d8843-967a-4607-9723-8c46bdca37ed",
+      "@type" : "sc:Canvas",
+      "label" : "A building in Bodie California",
+      "height" : 3024,
+      "width" : 4032,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://4c4f4f1f-af1d-46d3-8f06-6497b6e6246e",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archive.org/iiif/img-2422_202604/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archive.org/iiif/img-2422_202604",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "tif", "jpg", "gif", "png" ],
+              "maxArea" : 12192768,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 3024,
+          "width" : 4032
+        },
+        "on" : "http://521d8843-967a-4607-9723-8c46bdca37ed"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://maple119.github.io/iiif-project/annotations/10e6aa04d093e271c6c4598c6668bb39.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://2396c00e-16b3-470d-9bfd-97d288215c03",
+      "@type" : "sc:Canvas",
+      "label" : "Two buildings in Bodie",
+      "height" : 3024,
+      "width" : 4032,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://56986bbb-cb53-4a10-acb6-e880bfa4e04f",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archive.org/iiif/img-2424_20260414/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archive.org/iiif/img-2424_20260414",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "tif", "jpg", "gif", "png" ],
+              "maxArea" : 12192768,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 3024,
+          "width" : 4032
+        },
+        "on" : "http://2396c00e-16b3-470d-9bfd-97d288215c03"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://maple119.github.io/iiif-project/annotations/dd9c6359011cefb553abd9c79170955f.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://173c399d-cb2c-4f73-aa87-ab31413746ec",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 7650,
+      "width" : 6450,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://1ba7fd30-9c77-4034-9f61-00d39b16b4c5",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://tile.loc.gov/image-services/iiif/service:gmd:gmd436m:g4364m:g4364bm:g4364bm_g004291890:00429_1890-0001/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://tile.loc.gov/image-services/iiif/service:gmd:gmd436m:g4364m:g4364bm:g4364bm_g004291890:00429_1890-0001",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "txt", "jp2", "tif", "pdf", "gif", "png", "webp" ],
+              "qualities" : [ "default", "native", "color", "gray", "bitonal" ],
+              "supports" : [ "baseUriRedirect", "cors", "jsonldMediaType", "mirroring", "regionByPct", "regionByPx", "rotationBy90s", "sizeByWhListed", "sizeByForcedWh", "sizeByH", "sizeByPct", "sizeByW", "sizeByWh" ]
+            } ]
+          },
+          "height" : 7650,
+          "width" : 6450
+        },
+        "on" : "http://173c399d-cb2c-4f73-aa87-ab31413746ec"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
