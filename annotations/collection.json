@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://Maple119.github.io/iiif-project/annotations/10e6aa04d093e271c6c4598c6668bb39.json" ],
+  "@id" : "https://Maple119.github.io/iiif-project/annotations/collection.json",
+  "label" : "All annotations loaded in Maple119/iiif-project project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
